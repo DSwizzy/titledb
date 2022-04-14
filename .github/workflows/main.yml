@@ -53,8 +53,11 @@ jobs:
       - name: Build TitleDB
         run: |
           rm -rf titledb
-          git clone https://github.com/blawar/titledb titledb
-          cp *.txt titledb/
+          git clone --depth 1 https://github.com/blawar/titledb titledb
+          curl https://raw.githubusercontent.com/arch-box/titledb/main/demos.txt > titledb/demos.txt
+          curl https://raw.githubusercontent.com/arch-box/titledb/main/homebrew.txt > titledb/homebrew.txt
+          curl https://raw.githubusercontent.com/arch-box/titledb/main/overrides.txt > titledb/overrides.txt
+          curl https://raw.githubusercontent.com/arch-box/titledb/main/retailOnly.txt > titledb/retailOnly.txt
           python3 nut.py -U --import-region US --language en
           cp titledb/titles.json ./titles.US.en.json
         
