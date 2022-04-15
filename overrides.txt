@@ -76,3 +76,5 @@ id|name
 0100670014483005|ASSASSIN'S CREED EMBERS
 0100646009FBF004|Dead Cells The Queen and the Sea
 0100782016AD8000|CRYSTAR -クライスタ- デジタルアートブック
+010006600BF1F002|Gal Metal World Tour Edition — Bonus Tracks Vol. 1
+010006600BF1F003|Gal Metal — Bonus Tracks Vol. 2
