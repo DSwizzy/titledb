@@ -78,3 +78,5 @@ id|name
 0100782016AD8000|CRYSTAR -クライスタ- デジタルアートブック
 010006600BF1F002|Gal Metal World Tour Edition — Bonus Tracks Vol. 1
 010006600BF1F003|Gal Metal — Bonus Tracks Vol. 2
+0100B91014DE8000|十三機兵防衛圏デジタル・シークレットファイル
+0100F44014DE6000|十三機兵防衛圏デジタル・アートワークス
