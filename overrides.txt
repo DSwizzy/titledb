@@ -80,3 +80,5 @@ id|name
 010006600BF1F003|Gal Metal — Bonus Tracks Vol. 2
 0100B91014DE8000|十三機兵防衛圏デジタル・シークレットファイル
 0100F44014DE6000|十三機兵防衛圏デジタル・アートワークス
+0100CE001643C000|十三機兵防衛圈 Digital Secret File
+010012C01643E000|十三機兵防衛圈 Digital Artworks
