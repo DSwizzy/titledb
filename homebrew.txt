@@ -19,3 +19,4 @@ id|name
 050050CE11ED8000|Movie Player - Doctor Strange
 0500C14007E42000|Movie Player - The Matrix Trilogy
 05005E2892018000|ZeroRanger fix2
+05008BF00A1C8000|Sloop
