@@ -797,3 +797,4 @@ id|isDemo|region|name
 0100C87017EB0000|1|JP|夜廻三 体験版
 0100D11016A44000|1|JP|ベティア ペラペラ英語アドベンチャー体験版
 010077501775E000|1|US|DEADCRAFT -Demo Version-
+0100C670181FA000|1|US|Horror Stories Demo
