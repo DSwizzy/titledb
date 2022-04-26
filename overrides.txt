@@ -83,3 +83,4 @@ id|name
 0100CE001643C000|十三机兵防卫圈 Digital Secret File
 010012C01643E000|十三机兵防卫圈 Digital Artworks
 0100396012844000|RESEARCH and DESTROY
+01003370136EB002|Cozy Grove - New Neighbears
