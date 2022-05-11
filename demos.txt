@@ -800,3 +800,5 @@ id|isDemo|region|name
 0100C670181FA000|1|US|Horror Stories Demo
 01003900168E4000|1|US|Repentant DEMO
 01006B6017BBE000|1|US|Yurukill The Calumniation Games Demo
+010031801804A000|1|US|Card Shark Demo
+0100AAD016738000|1|JP|9-nine- 体験版
