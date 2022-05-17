@@ -18,5 +18,5 @@ id|name
 05450B00BA020000|AM2R (Another Metroid 2 Remake) 1.5.2-nx fix4
 050050CE11ED8000|Movie Player - Doctor Strange
 0500C14007E42000|Movie Player - The Matrix Trilogy
-05005E2892018000|ZeroRanger fix3
+05005E2892018000|ZeroRanger fix4
 05008BF00A1C8000|Sloop
