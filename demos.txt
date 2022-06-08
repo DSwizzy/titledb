@@ -809,3 +809,4 @@ id|isDemo|region|name
 01003C7017BB4000|1|JP|穢翼のユースティア 体験版
 0100F350182E6000|1|JP|ハジラブ -Making*Lovers- 体験版
 01006E6017792000|1|US|Fire Emblem Warriors Three Hopes Demo
+0100CB8018826000|1|JP|ReLieF 〜親愛なるあなたへ〜 FoR SwitcH 体験版
