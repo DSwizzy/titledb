@@ -20,3 +20,4 @@ id|name
 0500C14007E42000|Movie Player - The Matrix Trilogy
 05005E2892018000|ZeroRanger fix6
 05008BF00A1C8000|Sloop
+0500515C51CA0000|Sonic 1 SMS Remake
