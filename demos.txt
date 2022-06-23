@@ -811,3 +811,4 @@ id|isDemo|region|name
 01006E6017792000|1|US|Fire Emblem Warriors Three Hopes Demo
 0100CB8018826000|1|JP|ReLieF 〜親愛なるあなたへ〜 FoR SwitcH 体験版
 0100DB001724E000|1|US|MONSTER HUNTER RISE SUNBREAK DEMO
+0100F35017750000|1|JP|KLONOA Phantasy Reverie Series Demo
