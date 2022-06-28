@@ -814,3 +814,4 @@ id|isDemo|region|name
 0100F35017750000|1|JP|KLONOA Phantasy Reverie Series Demo
 0100460017CE8000|1|JP|千の刃濤、桃花染の皇姫 体験版
 0100FD50185E2000|1|JP|void* tRrLM2(); Trial,Ver
+0100A5F017E9E000|1|US|LIVE A LIVE Demo Version
