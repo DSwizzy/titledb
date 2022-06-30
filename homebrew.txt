@@ -23,3 +23,4 @@ id|name
 0500515C51CA0000|Sonic 1 SMS Remake
 0500525C51CA0000|Sonic 2 SMS Remake
 05005873236D0000|Sonic Time Twisted v1.1.2.1
+0500814017CB6000|The Jackbox Party Starter Patched
