@@ -53,8 +53,7 @@ jobs:
       - name: Build TitleDB
         run: |
           rm -rf titledb
-          git clone --depth 1 https://github.com/blawar/titledb titledb
-          git checkout 4456add2e9693fe1e21cc482aa064d8100031b36
+          git clone --depth 1 https://github.com/arch-box/nut titledb
           curl https://raw.githubusercontent.com/arch-box/titledb/main/demos.txt > demos.txt
           curl https://raw.githubusercontent.com/arch-box/titledb/main/homebrew.txt > homebrew.txt
           curl https://raw.githubusercontent.com/arch-box/titledb/main/overrides.txt > overrides.txt
