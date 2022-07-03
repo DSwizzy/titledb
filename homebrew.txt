@@ -18,7 +18,7 @@ id|name
 05450B00BA020000|AM2R (Another Metroid 2 Remake) 1.5.2-nx fix4
 050050CE11ED8000|Movie Player - Doctor Strange
 0500C14007E42000|Movie Player - The Matrix Trilogy
-05005E2892018000|ZeroRanger fix6
+05005E2892018000|ZeroRanger fix7
 05008BF00A1C8000|Sloop
 0500515C51CA0000|Sonic 1 SMS Remake
 0500525C51CA0000|Sonic 2 SMS Remake
