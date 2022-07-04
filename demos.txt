@@ -115,7 +115,6 @@ id|isDemo|region|name
 010006100C050000|1|US|Swim Out
 0100069000078000|0|US|Retail Interactive Display Menu
 0100069000079000|0|US|Retail Interactive Display Menu
-010006C017354000|1|JP|デュエマであそぼう！2022
 010006D00FF34000|1|US|Invisigun Reloaded
 0100071013DAA000|1|US|FUSER™
 010007600E8C6000|1|US|Devious Dungeon 2
@@ -282,7 +281,6 @@ id|isDemo|region|name
 01002FA01610A000|1|JP|BLUE REFLECTION TIE/帝
 01002FC00B694000|1|US|Fill-a-Pix: Phil's Epic Adventure
 0100302010338000|1|US|Blasphemous
-010030C017E4C000|1|US|Blackguards 2
 010030D005AE6000|1|GB|Pokkén Tournament DX
 010031801804A000|1|US|Card Shark
 0100319015E72000|1|JP|パズルハムスター ～地球冒険記～
@@ -489,7 +487,6 @@ id|isDemo|region|name
 0100634011250000|1|US|Overdriven Reloaded: Special Edition
 010063800FCDC000|1|US|Jet Kave Adventure
 0100639014BEA000|1|US|Timelie
-010063A016A14000|1|JP|ファミリーチェス
 0100641013A0C000|1|US|Werewolf: The Apocalypse — Heart of the Forest
 0100641015EFA000|1|JP|カニノケンカ -Fight Crab-
 0100644008454000|1|US|Slime-san
@@ -539,7 +536,6 @@ id|isDemo|region|name
 01006A900C686000|1|US|Just Dance® 2019
 01006AF00EB6C000|1|US|KILL la KILL -IF
 01006AF0124BC000|1|JP|Fit Boxing 2 -リズム＆エクササイズ-
-01006B0016BC0000|1|JP|アーケードアーカイブス スペースシーカ
 01006B2010DDA000|1|JP|ピカピカナース物語 小児科はいつも大騒ぎ for Nintendo Switch
 01006B6017BBE000|1|JP|冤罪執行遊戯ユルキル
 01006B700EA6A000|1|US|Automachef
