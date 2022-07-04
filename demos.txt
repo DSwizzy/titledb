@@ -78,7 +78,7 @@ id|isDemo|region|name
 0100BCA015D90000|1|US|The Forgotten City - Cloud Version
 01009830159CA000|1|US|The Forgotten City - Cloud Version
 |||normal
-0100000016546000|1|GB|Void's Ballad
+0100000016546000|1|GB|Void's Ballad DEMO
 010001100E820000|1|US|Them Bombs!
 010001A01329C000|1|JP|モンスターハンターストーリーズ２ ～破滅の翼～
 010001F00D9B8000|1|US|Riddled Corpses EX
