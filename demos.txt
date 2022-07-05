@@ -1166,8 +1166,6 @@ id|isDemo|region|name
 0100E0C017C44000|1|US|Yurukill: The Calumniation Games
 01006E6017792000|1|US|Fire Emblem Warriors: Three Hopes
 0100CB8018826000|1|JP|Re:LieF ～親愛なるあなたへ～ FoR SwitcH
-010063A016A14000|1|JP|ファミリーチェス
-01006B0016BC0000|1|JP|アーケードアーカイブス スペースシーカ
 0100F35017750000|1|JP|風のクロノア １＆２アンコール
 0100DB001724E000|1|US|Monster Hunter Rise: Sunbreak
 010048201891A000|1|JP|聖塔神記 トリニティトリガー 特別体験版
