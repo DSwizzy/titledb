@@ -767,7 +767,6 @@ id|isDemo|region|name
 01009FB00FDCE000|1|JP|ビビエット
 01009FD0137A0000|1|US|Traditional Tactics Ne+
 0100A02012684000|1|JP|ゾイドワイルド インフィニティブラスト
-0100A08013BB6000|1|US|Crush Crush
 0100A0A0136E8000|1|US|Adventures of Chris
 0100A1200F1E0000|1|GB|Desktop Bowling
 0100A1400AC08000|1|US|Urban Trial Playground
@@ -1167,7 +1166,6 @@ id|isDemo|region|name
 0100E0C017C44000|1|US|Yurukill: The Calumniation Games
 01006E6017792000|1|US|Fire Emblem Warriors: Three Hopes
 0100CB8018826000|1|JP|Re:LieF ～親愛なるあなたへ～ FoR SwitcH
-010030C017E4C000|1|US|Blackguards 2
 010063A016A14000|1|JP|ファミリーチェス
 01006B0016BC0000|1|JP|アーケードアーカイブス スペースシーカ
 0100F35017750000|1|JP|風のクロノア １＆２アンコール
