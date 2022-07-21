@@ -1170,3 +1170,4 @@ id|isDemo|region|name
 010048201891A000|1|JP|聖塔神記 トリニティトリガー 特別体験版
 0100FD50185E2000|1|JP|Void Terrarium 2
 0100460017CE8000|1|JP|千の刃濤、桃花染の皇姫
+0100CBC015C2C000|1|US|Super Bullet Break Demo
