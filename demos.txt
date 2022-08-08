@@ -312,7 +312,6 @@ id|isDemo|region|name
 010039300A56C000|1|US|Squareboy vs Bullies: Arena Edition
 0100395017A00000|1|US|Darkness and Flame: Enemy in Reflection
 01003980131D2000|1|JP|Unrailed!
-010039E012F40000|1|US|Yu-Gi-Oh! Master Duel
 01003A30141CA000|1|JP|みんなのラジコンGP
 01003A701703C000|1|GB|MacGuffin's Curse
 01003AB00D74A000|1|US|Double Pug Switch
