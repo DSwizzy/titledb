@@ -8,6 +8,7 @@ id|name
 05005A400DB52000|The Jackbox Party Pack 6 v1.1.0 Patched
 05007F30113A6000|The Jackbox Party Pack 7 v1.0.1 Patched
 050050F015280000|The Jackbox Party Pack 8 Patched
+0500BFB018134000|The Jackbox Party Pack 9 Patched
 050050CE11E68000|Anime Movie Player - Panty & Stocking with Garterbelt
 050050CE11E98000|Anime Movie Player - SteinsGate
 0500E80B00BA0000|Anime Movie Player - Flip Flappers
