@@ -1171,3 +1171,8 @@ id|isDemo|region|name
 0100460017CE8000|1|JP|千の刃濤、桃花染の皇姫
 0100CBC015C2C000|1|US|Super Bullet Break Demo
 0100829018568000|1|US|SD GUNDAM BATTLE ALLIANCE Demo Version
+0100998011330000|1|JP|スプラトゥーン２ 特別体験版'20
+01009C900D458000|1|JP|スプラトゥーン2 特別体験版
+0100D070040F8000|1|JP|スプラトゥーン2 前夜祭
+0100BA0018500000|1|US|Splatoon™ 3: Splatfest World Premiere
+01000EE017182000|1|US|Nintendo Switch Sports Online Play Test
