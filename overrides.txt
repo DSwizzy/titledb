@@ -84,3 +84,4 @@ id|name
 010012C01643E000|十三机兵防卫圈 Digital Artworks
 0100396012844000|RESEARCH and DESTROY
 01003370136EB002|Cozy Grove - New Neighbears
+0100E190117D7001|シナリオ「サイラスくんの華麗なる１日」夢ブロマイド「あなたを歓迎する一言／サイラス／タイラー／レイナ」
